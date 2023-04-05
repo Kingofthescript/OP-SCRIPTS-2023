@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kingofthescript/video/e53489fe5e966e51dfde13d1e36e8b46ea6b3f1a/main"))()
